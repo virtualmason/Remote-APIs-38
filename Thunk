@@ -1,0 +1,1 @@
+Redux Thunk allows you to return a function so you can do API calls. It's as simple as adding a function that is dispatched. The Thunk function does API call then dipatches to Reducer.
